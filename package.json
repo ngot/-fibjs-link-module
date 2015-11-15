@@ -1,0 +1,17 @@
+{
+  "name": "@fibjs/link-fibjs",
+  "description": "link .module to npm_modules",
+  "version": "1.0.0",
+  "author": "ngot",
+  "bin": "./bin.js",
+  "license": "MIT",
+  "keywords": [
+  ],
+  "files": [
+    "bin.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+  }
+}
